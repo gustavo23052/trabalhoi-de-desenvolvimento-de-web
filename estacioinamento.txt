@@ -1,0 +1,9 @@
+estacionamento/
+├── index.html              (página inicial para listar vagas)
+├── cadastro.html           (página para cadastrar reservas)
+├── css/
+│   └── styles.css          (estilos para as páginas)
+├── js/
+│   ├── script.js           (funções JS para interação)
+└── assets/                 (caso tenha imagens, ícones, etc.)
+
